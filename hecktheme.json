@@ -1,0 +1,41 @@
+{
+    "manifest": {
+        "author": "heckreaver#9252",
+        "version": "1.0.0",
+        "name": "Heck's rad theme",
+        "license": "GNU GPL v3.0"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/885500127878455306\/885681363741704192\/CozetteVector.otf",
+        "ginto_regular": "https:\/\/cdn.discordapp.com\/attachments\/885500127878455306\/885681363741704192\/CozetteVector.otf",
+        "whitney_semibold": "https:\/\/cdn.discordapp.com\/attachments\/885500127878455306\/885681363741704192\/CozetteVector.otf"
+    },
+    "simple_colors": {
+        "accent": -35456,
+        "background": -15988456,
+        "background_secondary": -16382964,
+        "mention_highlight": 419364864,
+        "active_channel": -14937281,
+        "statusbar": -16777139,
+        "input_background": -16777148,
+        "blocked_bg": 1056964608
+    },
+    "colors": {
+        "primary_dark": -15988456,
+        "primary_dark_100": -15988456,
+        "primary_dark_130": -15988456
+    },
+    "drawable_tints": {
+        "ic_mobile": -16711681,
+        "drawable_voice_indicator_speaking": -11824171,
+        "ic_status_dnd_16dp": -6881211,
+        "ic_status_online_16dp": -16711681,
+        "ic_status_idle_16dp": -10805130,
+        "drawable_voice_user_background_speaking": -11824171,
+        "ic_status_streaming_16dp": -7077633,
+        "ic_status_invisible_16dp": -16777163,
+        "abc_action_bar_item_background_material": -15725535
+    },
+    "raws": {}
+}
